@@ -6,4 +6,4 @@
 * What I don't know now... can always be learned
 * When stuck... reach out a hand
 
-Link to my github portfolio: [https://github.com/Hollistr]
+Link to my github portfolio: [ https://github.com/Hollistr ]
