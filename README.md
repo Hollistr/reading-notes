@@ -7,3 +7,4 @@
 * When stuck... reach out a hand
 
 Link to my github portfolio: [ https://github.com/Hollistr ]
+zLink to my class1: [https://hollistr.github.io/reading-notes/class1]
