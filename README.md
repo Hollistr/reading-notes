@@ -6,6 +6,6 @@
 * What I don't know now... can always be learned
 * When stuck... reach out a hand
 
-[Link to my github portfolio:](https://github.com/Hollistr)
+[Link to my github portfolio](https://github.com/Hollistr)
 
-[Link to my class1:](https://hollistr.github.io/reading-notes/class1)
+[Link to my class1](https://hollistr.github.io/reading-notes/class1)
