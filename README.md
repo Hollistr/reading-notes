@@ -5,5 +5,7 @@
 **Table of Contents**
 
 -Basic Markdown Writing
+
 -The Command Line
+
 -What is Git
