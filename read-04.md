@@ -4,7 +4,7 @@
 
 Wireframing is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. When designing for the screen you need to know where all the information is going to go in plain black and white diagrams before building anything with code. Without the distractions of colors, typeface choices or text, wireframing lets you plan the layout and interaction of your interface.
 
-##6 Step to make a wireframe
+## 6 Step to make a wireframe
 
 1.	Do your research
 2.	Prepare your research for quick reference
