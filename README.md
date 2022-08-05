@@ -5,5 +5,7 @@
 **Table of Contents**
 
 [Basic Markdown Writing](https://hollistr.github.io/reading-notes/class1)
+
 [The Command Line](https://hollistr.github.io/reading-notes/read-02)
+
 [What is Git](https://hollistr.github.io/reading-notes/read-03)
