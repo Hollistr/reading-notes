@@ -4,8 +4,8 @@
 
 **Table of Contents**
 
--Basic Markdown Writing
+-(Basic Markdown Writing)
 
--The Command Line
+-(The Command Line)[https://hollistr.github.io/reading-notes/read-02]
 
--What is Git
+-(What is Git)[https://hollistr.github.io/reading-notes/read-03]
